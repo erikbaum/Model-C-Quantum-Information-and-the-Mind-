@@ -1,18 +1,22 @@
 Quantum Dualism (Model C)
 A Dual-Aspect Framework for Consciousness and Reality  
 
+
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 For full license details, see the [LICENSE.md](LICENSE.md) file.
 
 © [2025] [Erik Baum]. All rights reserved.
 
+
+
 **Introduction**
 
 Quantum Dualism (Model C) is a comprehensive framework that unifies quantum mechanics, consciousness, and ethics. It proposes that reality arises from a **Quantum Information Substrate**, which encodes both the **Physical Realm** (objective 
-
 reality) and the **Mental Realm** (subjective experience).  Developed through a synergistic collaboration between human creativity and AI-driven rigor, this framework resolves key philosophical problems while remaining grounded in empirical 
-
 science.
+
+
 
 **Core Concepts**
 
