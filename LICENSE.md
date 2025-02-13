@@ -145,9 +145,10 @@ Section 1 -- Definitions.
      equivalent rights anywhere in the world.
 
   n. You means the individual or entity exercising the Licensed Rights
-     under this Public License. Your has a corresponding meaning
+     under this Public License. Your has a corresponding meaning.
 
-     Section 2 -- Scope.
+
+Section 2 -- Scope.
 
   a. License grant.
 
@@ -203,7 +204,6 @@ Section 1 -- Definitions.
                Licensed Rights by any recipient of the Licensed
                Material.
 
-               
        6. No endorsement. Nothing in this Public License constitutes or
           may be construed as permission to assert or imply that You
           are, or that Your use of the Licensed Material is, connected
@@ -279,7 +279,8 @@ following conditions.
        3. If requested by the Licensor, You must remove any of the
           information required by Section 3(a)(1)(A) to the extent
           reasonably practicable.
- b. ShareAlike.
+
+  b. ShareAlike.
 
      In addition to the conditions in Section 3(a), if You Share
      Adapted Material You produce, the following conditions also apply.
@@ -434,3 +435,5 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+    
+
