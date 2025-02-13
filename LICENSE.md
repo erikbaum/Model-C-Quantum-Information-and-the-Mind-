@@ -1,3 +1,8 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-SA-4.0 -->
+
+© [2025] [Erik Baum]. All rights reserved.
+
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
