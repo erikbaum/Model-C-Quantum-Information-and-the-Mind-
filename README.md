@@ -57,4 +57,4 @@ Clearly state that their work is based on Quantum Dualism (Model C).
 License their derivative work under CC BY-NC-SA 4.0.
 
 How to Cite
-[Erik Baum]. (2025). Quantum Dualism (Model C): A Dual-Aspect Framework for Consciousness and Reality. GitHub Repository. [URL]
+[Erik Baum]. (2025). Quantum Dualism (Model C): A Dual-Aspect Framework for Consciousness and Reality. GitHub Repository. [https://github.com/erikbaum/Quantum-Dualism-Model-C/tree/main?tab=readme-ov-file]
