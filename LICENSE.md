@@ -2,6 +2,9 @@
 
 © [2025] [Erik Baum]. All rights reserved.
 
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
+
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 Attribution-NonCommercial-ShareAlike 4.0 International
 
