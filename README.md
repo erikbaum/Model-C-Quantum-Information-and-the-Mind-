@@ -6,20 +6,22 @@ For full license details, see the [LICENSE.md](LICENSE.md) file.
 
 © [2025] [Erik Baum]. All rights reserved.
 
-A.Introduction
+Introduction
+
 Quantum Dualism (Model C) is a comprehensive framework that unifies quantum mechanics, consciousness, and ethics. It proposes that reality arises from a **Quantum Information Substrate**, which encodes both the **Physical Realm** (objective reality) and the **Mental Realm** (subjective experience).  Developed through a synergistic collaboration between human creativity and AI-driven rigor, this framework resolves key philosophical problems while remaining grounded in empirical science.
 
 Core Concepts
-1. Quantum Information Substrate  
-The foundational layer of reality where quantum states encode both physical and mental aspects. 
-2. Temporal Encoding  
-Time is encoded as quantum states within the substrate, making it an intrinsic property of reality.  
-3. Graded Free Will  
-Agency exists on a spectrum, determined by the coherence between conscious and unconscious intentions.
-4. Branch Utilitarianism
-Ethical decision-making is based on optimizing well-being across possible reality branches.  
-5. Collective Sync 
-Shared mental states entangle groups into "quantum swarms," enabling collective influence on reality.  
+
+1. Quantum Information Substrate: The foundational layer of reality where quantum states encode both physical and mental aspects. 
+
+2. Temporal Encoding: Time is encoded as quantum states within the substrate, making it an intrinsic property of reality.  
+
+3. Graded Free Will: Agency exists on a spectrum, determined by the coherence between conscious and unconscious intentions.
+
+4. Branch Utilitarianism: Ethical decision-making is based on optimizing well-being across possible reality branches.  
+
+5. Collective Sync: Shared mental states entangle groups into "quantum swarms," enabling collective influence on reality.  
+
 
 Philosophical Problems Addressed
 
@@ -43,11 +45,17 @@ Behavioral Science: Collective behavior and moral responsibility research.
 Ethical and Social Implications
 
 1.Benefits
+
 Enhanced well-being through coherence and intentional bias.
+
 Global coordination via collective synchronization.
+
 Transhumanist potential for non-biological consciousness
+
 2.Risks
+
 Potential for manipulation through quantum swarms.
+
 Privacy concerns related to entanglement detection.  
 
 Licensing and Attribution
