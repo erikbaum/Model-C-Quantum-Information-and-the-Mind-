@@ -6,11 +6,15 @@ For full license details, see the [LICENSE.md](LICENSE.md) file.
 
 © [2025] [Erik Baum]. All rights reserved.
 
-Introduction
+**Introduction**
 
-Quantum Dualism (Model C) is a comprehensive framework that unifies quantum mechanics, consciousness, and ethics. It proposes that reality arises from a **Quantum Information Substrate**, which encodes both the **Physical Realm** (objective reality) and the **Mental Realm** (subjective experience).  Developed through a synergistic collaboration between human creativity and AI-driven rigor, this framework resolves key philosophical problems while remaining grounded in empirical science.
+Quantum Dualism (Model C) is a comprehensive framework that unifies quantum mechanics, consciousness, and ethics. It proposes that reality arises from a **Quantum Information Substrate**, which encodes both the **Physical Realm** (objective 
 
-Core Concepts
+reality) and the **Mental Realm** (subjective experience).  Developed through a synergistic collaboration between human creativity and AI-driven rigor, this framework resolves key philosophical problems while remaining grounded in empirical 
+
+science.
+
+**Core Concepts**
 
 1. Quantum Information Substrate: The foundational layer of reality where quantum states encode both physical and mental aspects. 
 
@@ -23,7 +27,8 @@ Core Concepts
 5. Collective Sync: Shared mental states entangle groups into "quantum swarms," enabling collective influence on reality.  
 
 
-Philosophical Problems Addressed
+
+**Philosophical Problems Addressed**
 
 Quantum Dualism (Model C) resolves several longstanding philosophical issues:
 
@@ -35,14 +40,18 @@ Temporal Experience: Resolved via Temporal Encoding, which explains the flow of 
 
 Moral Agency: Resolved via Branch Utilitarianism, which provides a framework for ethical decision-making.
 
-Empirical Grounding
+
+
+**Empirical Grounding**
 
 The framework is supported by evidence from multiple scientific disciplines:  
 Quantum Biology: Quantum coherence in microtubules, photosynthesis, and magnetoreception
 Neuroscience: Neural synchrony, altered states of consciousness, and decision-making studies.
 Behavioral Science: Collective behavior and moral responsibility research.
 
-Ethical and Social Implications
+
+
+**Ethical and Social Implications**
 
 1.Benefits
 
@@ -58,7 +67,10 @@ Potential for manipulation through quantum swarms.
 
 Privacy concerns related to entanglement detection.  
 
-Licensing and Attribution
+
+
+
+**Licensing and Attribution**
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). 
 
@@ -69,5 +81,5 @@ Explicitly credit the original author, [Your Name].
 Clearly state that their work is based on Quantum Dualism (Model C).
 License their derivative work under CC BY-NC-SA 4.0.
 
-How to Cite
+**How to Cite**
 [Erik Baum]. (2025). Quantum Dualism (Model C): A Dual-Aspect Framework for Consciousness and Reality. GitHub Repository. [https://github.com/erikbaum/Quantum-Dualism-Model-C/tree/main?tab=readme-ov-file]
