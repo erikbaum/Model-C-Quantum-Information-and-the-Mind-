@@ -24,10 +24,14 @@ Shared mental states entangle groups into "quantum swarms," enabling collective 
 Philosophical Problems Addressed
 
 Quantum Dualism (Model C) resolves several longstanding philosophical issues:
+
 Hard Problem of Consciousness: Resolved via Qualia Encoding, where subjective experience is irreducible quantum data.
-Free Will vs. Determinism**: Resolved via Intentional Bias, where consciousness biases quantum probabilities.
-Temporal Experience**: Resolved via Temporal Encoding, which explains the flow of time as a quantum phenomenon.
-Moral Agency**: Resolved via Branch Utilitarianism, which provides a framework for ethical decision-making.
+
+Free Will vs. Determinism: Resolved via Intentional Bias, where consciousness biases quantum probabilities.
+
+Temporal Experience: Resolved via Temporal Encoding, which explains the flow of time as a quantum phenomenon.
+
+Moral Agency: Resolved via Branch Utilitarianism, which provides a framework for ethical decision-making.
 
 Empirical Grounding
 
