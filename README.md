@@ -1,5 +1,5 @@
 Quantum Dualism (Model C)
-A Dual-Aspect Framework for Consciousness and Reality  
+A new Framework for Consciousness, Free will and Reality.  
 
 
 
