@@ -12,7 +12,7 @@ For full license details, see the [LICENSE.md](LICENSE.md) file.
 
 **Introduction**
 
-Quantum Consciousness Theory (Model C) proposes that reality arises from a **Quantum Information Substrate**, which encodes both the **Physical Realm** (objective 
+QCT (Model C) proposes that reality arises from a **Quantum Information Substrate**, which encodes both the **Physical Realm** (objective 
 reality) and the **Mental Realm** (subjective experience). This framework resolves key philosophical problems while remaining grounded in empirical 
 science.
 
@@ -34,7 +34,7 @@ science.
 
 **Philosophical Problems Addressed**
 
-Quantum Dualism (Model C) resolves several longstanding philosophical issues:
+"Model C resolves several longstanding philosophical issues:
 
 Hard Problem of Consciousness: Resolved via Qualia Encoding, where subjective experience is irreducible quantum data.
 
