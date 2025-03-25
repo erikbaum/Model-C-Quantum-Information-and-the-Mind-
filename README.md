@@ -12,7 +12,7 @@ For full license details, see the [LICENSE.md](LICENSE.md) file.
 
 **Introduction**
 
-QCT (Model C) proposes that reality arises from a **Quantum Information Substrate**, which encodes both the **Physical Realm** (objective 
+Model C proposes that reality arises from a **Quantum Information Substrate**, which encodes both the **Physical Realm** (objective 
 reality) and the **Mental Realm** (subjective experience). This framework resolves key philosophical problems while remaining grounded in empirical 
 science.
 
