@@ -34,7 +34,7 @@ science.
 
 **Philosophical Problems Addressed**
 
-"Model C resolves several longstanding philosophical issues:
+Model C resolves several longstanding philosophical issues:
 
 Hard Problem of Consciousness: Resolved via Qualia Encoding, where subjective experience is irreducible quantum data.
 
