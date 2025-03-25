@@ -1,5 +1,5 @@
-Quantum Dualism (Model C)
-A new Framework for Consciousness, Free Will and Reality.  
+Quantum Consciousness Theory (Model C)
+ 
 
 
 
@@ -12,7 +12,7 @@ For full license details, see the [LICENSE.md](LICENSE.md) file.
 
 **Introduction**
 
-Quantum Dualism (Model C) proposes that reality arises from a **Quantum Information Substrate**, which encodes both the **Physical Realm** (objective 
+Quantum Consciousness Theory (Model C) proposes that reality arises from a **Quantum Information Substrate**, which encodes both the **Physical Realm** (objective 
 reality) and the **Mental Realm** (subjective experience). This framework resolves key philosophical problems while remaining grounded in empirical 
 science.
 
@@ -86,4 +86,4 @@ Clearly state that their work is based on Quantum Dualism (Model C).
 License their derivative work under CC BY-NC-SA 4.0.
 
 **How to Cite**
-[Erik Baum]. (2025). Quantum Dualism (Model C) A new Framework for Consciousness, Free Will and Reality. GitHub Repository. [https://github.com/erikbaum/Quantum-Dualism-Model-C/tree/main?tab=readme-ov-file]
+[Erik Baum]. (2025). Quantum Consciousness Theory (Model C) A new Framework for Consciousness, Free Will and Reality. GitHub Repository. [https://github.com/erikbaum/Quantum-Dualism-Model-C/tree/main?tab=readme-ov-file]
