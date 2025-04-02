@@ -1,4 +1,4 @@
-Quantum Consciousness Theory (Model C)
+Model C: Quantum Information and the Mind
  
 
 
@@ -86,4 +86,4 @@ Clearly state that their work is based on Quantum Dualism (Model C).
 License their derivative work under CC BY-NC-SA 4.0.
 
 **How to Cite**
-[Erik Baum]. (2025). Quantum Consciousness Theory (Model C). GitHub Repository. [https://github.com/erikbaum/Quantum-Consciousness-Theory-Model-C-/blob/main/README.md]
+[Erik Baum]. (2025). Model C: Quantum Information and the Mind. GitHub Repository. 
