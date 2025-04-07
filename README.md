@@ -86,4 +86,4 @@ Clearly state that their work is based on Model C.
 License their derivative work under CC BY-NC-SA 4.0.
 
 **How to Cite**
-[Erik Baum]. (2025). Model C: Quantum Information and the Mind. GitHub Repository. 
+[Erik Baum]. (2025). Model C: Quantum Information and the Mind. GitHub Repository.https://github.com/erikbaum/Model-C-Quantum-Information-and-the-Mind-?tab=readme-ov-file
