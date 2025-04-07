@@ -81,8 +81,8 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 Any use, adaptation, or extension of this framework must:
-Explicitly credit the original author, [Your Name].
-Clearly state that their work is based on Quantum Dualism (Model C).
+Explicitly credit the original author, Erik Baum.
+Clearly state that their work is based on Model C.
 License their derivative work under CC BY-NC-SA 4.0.
 
 **How to Cite**
